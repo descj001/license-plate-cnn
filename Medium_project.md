@@ -1,3 +1,5 @@
+<h1>ANN to Predict State by License Plate</h1>
+
 **Motivation**
 
 No two license plates are exactly the same, each can vary in color, font, artwork, and overall style. Despite this variation, humans can often quickly identify a plate’s state of origin based on subtle visual cues. In this project, we wanted to explore whether a machine learning model could learn to do the same. Successful applications of this project could include aiding law enforcement and border control, identifying stolen vehicles, and helping estimate tourism traffic across states.

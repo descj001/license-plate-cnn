@@ -1,3 +1,3 @@
 Must Download .md file to view images, including code work!
 
-Artificial Neural Network Project to identify US states by photos of license plates.
+This project uses an artificial neural network to classify U.S. license plates by state, learning visual patterns such as color, layout, and design features. We compare multiple model architectures, including transfer learning, to evaluate how well the network can distinguish plates across all 50 states and Washington D.C.
